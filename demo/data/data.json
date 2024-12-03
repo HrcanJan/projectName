@@ -1,0 +1,3867 @@
+[{
+	"name": "MICHAL",
+	"class": "man",
+	"extra": {
+		"lastname": "CHRŤAN",
+		"deathDate": "?"
+	},
+	"textClass": "emphasis",
+	"marriages": [{
+		"spouse": {
+			"name": "MARIA",
+			"class": "woman",
+			"extra": {
+				"lastname": "CHRŤAN",
+				"maidenname": "ŠIMAK",
+				"deathDate": "?"
+			}
+		},
+		"children": [{
+			"name": "JAN",
+			"class": "man",
+			"extra": {
+				"lastname": "CHRŤAN",
+				"birthDate": "1825",
+				"deathDate": "06.12.1884",
+				"extraText": "Prvý dosťahovaný do Padiny"
+			},
+			"textClass": "emphasis",
+			"marriages": [{
+				"spouse": {
+					"name": "JULIANA",
+					"class": "woman",
+					"extra": {
+						"lastname": "CHRŤAN",
+						"maidenname": "KOMINKA",
+						"birthDate": "04.09.1831",
+						"deathDate": "25.03.1882"
+					}
+				},
+				"children": [{
+					"name": "JAN",
+					"class": "man",
+					"extra": {
+						"lastname": "CHRŤAN",
+						"birthDate": "28.11.1852",
+						"deathDate": "21.08.1854"
+						}
+					}, {
+					"name": "JAN ALBIN",
+					"class": "man",
+					"extra": {
+						"lastname": "CHRŤAN",
+						"birthDate": "04.03.1855",
+						"deathDate": "? (1905-1918)"
+					},
+					"marriages": [{
+						"spouse": {
+							"name": "MAGDALENA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"maidenname": "OTT",
+								"birthDate": "1859",
+								"deathDate": "? (1905-1918)"
+							}
+						},
+						"children": [{
+							"name": "JOZEFINA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "01.03.1880",
+								"deathDate": "09.09.1880"
+							}
+						}, {
+							"name": "ADOLF",
+							"class": "man",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "12.03.1881",
+								"deathDate": "1933"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "ZUZANA",
+									"class": "woman",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"maidenname": "TORŇOŠ",
+										"birthDate": "1884",
+										"deathDate": "1974"
+									}
+								},
+								"children": [{
+									"name": "ZUZANA",
+									"class": "woman",
+									"extra": {
+										"maidenname": "CHRŤAN",
+										"lastname": "PAPUGA",
+										"birthDate": "30.11.1905",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "NIKODIN",
+											"class": "man",
+											"extra": {
+												"lastname": "PAPUGA",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "1940",
+												"lastname": "PAPUGA"
+											}
+										}, {
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"birthDate": "1942",
+												"lastname": "PAPUGA"
+											}
+										}, {
+											"name": "MARIA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"maidenname": "PAPUGA",
+												"lastname": "HANA"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JOHAN",
+													"class": "man",
+													"extra": {
+														"lastname": "HANA",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "VLADO",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "HANA"
+													}
+												}, {
+													"name": "KVIETKA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "HANA",
+														"extraText": "Žije na Slovensku"
+													}
+												}]
+											}]
+										}, {
+											"name": "JULIA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"maidenname": "PAPUGA",
+												"lastname": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAKOB",
+													"class": "man",
+													"extra": {
+														"lastname": "?",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "MARTA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?"
+													}
+												}, {
+													"name": "ROBERT",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?"
+													}
+												}, {
+													"name": "DANIEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?"
+													}
+												}]
+											}]
+										}, {
+											"name": "VLADO",
+											"class": "man",
+											"extra": {
+												"birthDate": "1949",
+												"lastname": "PAPUGA"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "PAPUGA",
+														"birthDate": "?",
+														"deathDate": "?",
+														"maidenname": "ŠIRKA"
+													}
+												},
+												"children": [{
+													"name": "VLADO",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "DUŠAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "DANIEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "TOMI",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "VLADO",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "ELENA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "MARTIN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}, {
+													"name": "ANIČKA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAPUGA"
+													}
+												}]
+											}, {
+												"spouse": {
+													"name": "ZUZANA",
+													"class": "woman",
+													"extra": {
+														"maidenname": "MURTIN",
+														"lastname": "PAPUGA",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "MARTA",
+													"class": "woman",
+													"extra": {
+														"lastname": "PAPUGA",
+														"birthDate": "?"
+													}
+												}, {
+													"name": "MILINA",
+													"class": "woman",
+													"extra": {
+														"lastname": "PAPUGA",
+														"birthDate": "?"
+													}
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "25.02.1909",
+										"deathDate": "24.09.1994"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"maidenname": "ČIŽIK",
+												"birthDate": "07.04.1911",
+												"deathDate": "12.12.2002"
+											}
+										}, 
+										"children": [{
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"birthDate": "20.04.1936",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MILADA",
+													"class": "woman",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"maidenname": "PILÁT",
+														"birthDate": "01.01.1938",
+														"deathDate": "?"
+													}
+												},
+												"children": [{
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "CHRŤAN"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "CHRŤAN",
+																"maidenname": "ČAPO"
+															}
+														},
+														"children": [{
+															"name": "LIDIJA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "1984",
+																"lastname": "CHRŤAN"
+															}
+														}, {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "CHRŤAN"
+															}
+														}]
+													}]
+												}, {
+													"name": "MIRO",
+													"class": "man",
+													"extra": {
+														"birthDate": "30.04.1965",
+														"lastname": "CHRŤAN"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "07.03.1967",
+																"lastname": "CHRŤAN",
+																"maidenname": "PAVELA"
+															}
+														},
+														"children": [{
+															"name": "VLADIMIR",
+															"class": "man",
+															"extra": {
+																"birthDate": "15.12.1989",
+																"lastname": "CHRŤAN"
+															}
+														}, {
+															"name": "VLASTA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "21.03.1996",
+																"lastname": "CHRŤAN"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "KAROL",
+											"class": "man",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"birthDate": "23.10.1937"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ZUZANA",
+													"class": "woman",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"maidenname": "STRUHÁR",
+														"birthDate": "19.05.1944",
+														"deathDate": "25.03.2023"
+													}
+												}
+											}]
+										}, {
+											"name": "ANA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "CHRŤAN",
+												"birthDate": "23.06.1940 ",
+												"lastname": "MOJSOVIĆ"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MIŠO",
+													"class": "man",
+													"extra": {
+														"lastname": "KUPREŠANIN",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "SAŠA",
+													"class": "man",
+													"extra": {
+														"lastname": "KUPREŠANIN",
+														"birthDate": "?"
+													}
+												}]
+											}, {
+												"spouse": {
+													"name": "RADE",
+													"class": "man",
+													"extra": {
+														"lastname": "MOJSOVIĆ",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "MIRIJANA",
+													"class": "woman",
+													"extra": {
+														"lastname": "MOJSOVIĆ",
+														"birthDate": "1964"
+													}
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "GUSTAV",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "03.03.1914",
+										"deathDate": "14.05.1958"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "KAROLINA",
+											"class": "woman",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"maidenname": "KOĽČÍK",
+												"birthDate": "16.06.1917",
+												"deathDate": "20.12.2004"
+											}
+										}, 
+										"children": [{
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "CHRŤAN",
+												"lastname": "MILISAVLJEVIĆ",
+												"birthDate": "06.06.1945",
+												"extraText": "Žijú v Kragujevci"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "BRANISLAV",
+													"class": "man",
+													"extra": {
+														"lastname": "MILISAVLJEVIĆ",
+														"birthDate": "05.06.1938",
+														"deathDate": "13.04.1992"
+													}
+												},
+												"children": [{
+													"name": "NEVENA",
+													"class": "woman",
+													"extra": {
+														"maidenname": "MILISAVLJEVIĆ",
+														"lastname": "RECKNAGEL",
+														"birthDate": "29.08.1966"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"lastname": "MAMOJKA",
+																"birthDate": "?"
+															}
+														},
+														"children": [{
+															"name": "MELANI",
+															"class": "woman",
+															"extra": {
+																"lastname": "MAMOJKA",
+																"birthDate": "21.06.1993"
+															}
+														}]
+													}, {
+														"spouse": {
+															"name": "ROLF",
+															"class": "man",
+															"extra": {
+																"lastname": " RECKNAGEL",
+																"birthDate": "30.01.1954",
+																"deathDate": "02.02.2021"
+															}
+														}
+													}]
+												}, {
+													"name": "ALEKSANDAR",
+													"class": "man",
+													"extra": {
+														"lastname": "MILISAVLJEVIĆ",
+														"birthDate": "21.01.1970"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "SLAVICA",
+															"class": "woman",
+															"extra": {
+																"maidenname": "PANTIĆ",
+																"lastname": "MILISAVLJEVIĆ",
+																"birthDate": "03.08.1972"
+															}
+														},
+														"children": [{
+															"name": "JOVAN",
+															"class": "man",
+															"extra": {
+																"lastname": "MILISAVLJEVIĆ",
+																"birthDate": "09.07.2001"
+															}
+														}, {
+															"name": "MIHAJLO",
+															"class": "man",
+															"extra": {
+																"lastname": "MILISAVLJEVIĆ",
+																"birthDate": "09.02.2004"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "VLADIMIR",
+											"class": "man",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"birthDate": "1948",
+												"deathDate": "12.01.1949"
+											}
+										}, {
+											"name": "VLATKO",
+											"class": "man",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"birthDate": "30.10.1949",
+												"deathDate": "09.01.2020"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "VERA",
+													"class": "woman",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"maidenname": "TOMEK",
+														"birthDate": "08.08.1949"
+													}
+												},
+												"children": [{
+													"name": "ŽELIMIR",
+													"class": "man",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"birthDate": "12.10.1970"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANNA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"maidenname": "SLIVKA",
+																"birthDate": "28.04.1971"
+															}
+														},
+														"children": [{
+															"name": "AŇA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "22.08.1998",
+																"lastname": "ŠTAUB",
+																"maidenname": "CHRŤAN"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "KAROL",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "12.08.1998",
+																		"lastname": "ŠTAUB"
+																	}
+																}
+															}]
+														}, {
+															"name": "EMA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "19.02.2001",
+																"maidenname": "CHRŤAN",
+																"lastname": "BEŠKA"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "EMIL",
+																	"class": "man",
+																	"extra": {
+																		"lastname": "BEŠKA",
+																		"birthDate": "19.10.1998"
+																	}
+																}
+															}]
+														}]
+													}]
+												}, {
+													"name": "ZLATKO",
+													"class": "man",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"birthDate": "23.11.1974"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "SNEŽANA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"maidenname": "ALEKSIĆ",
+																"birthDate": "22.02.1978"
+															}
+														},
+														"children": [{
+															"name": "ANASTASIA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "06.04.2002"
+															}
+														}, {
+															"name": "ALEKSA",
+															"class": "man",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "04.11.2007"
+															}
+														}]						
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "KAROĽ",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "10.09.1919",
+										"deathDate": "07.03.1996"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"maidenname": "ČJEP",
+												"birthDate": "08.03.1928",
+												"deathDate": "18.10.1987"
+											}
+										},
+										"children": [{
+											"name": "KAROĽ",
+											"class": "man",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"birthDate": "26.12.1951",
+												"deathDate": "13.07.2007"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"maidenname": "KADANEC",
+														"birthDate": "08.03.1954",
+														"deathDate": "26.12.2023"
+													}
+												},
+												"children": [{
+													"name": "KAROĽ",
+													"class": "man",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"birthDate": "21.05.1975"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MARIA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"maidenname": "ŠIMAK",
+																"birthDate": "11.09.1973"
+															}
+														},
+														"children": [{
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "26.12.2000"
+															}
+														}, {
+															"name": "SAMUEL",
+															"class": "man",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "02.11.2008"
+															}
+														}]
+													}]
+												}, {
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"lastname": "CHRŤAN",
+														"birthDate": "30.09.1977"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MARIA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"maidenname": "VALENTA",
+																"birthDate": "01.02.1978"
+															}
+														},
+														"children": [{
+															"name": "DANIEL",
+															"class": "man",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "06.02.2000"
+															}
+														}, {
+															"name": "DARKO",
+															"class": "man",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "13.03.2003"
+															}
+														}, {
+															"name": "MARINA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CHRŤAN",
+																"birthDate": "16.05.2008"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"lastname": "ĽAVROŠ",
+												"maidenname": "CHRŤAN",
+												"birthDate": "31.10.1954"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"lastname": "LENHART",
+														"birthDate": "24.09.1954",
+														"extraText": "Rozvedení"
+													}
+												},
+												"children": [{
+													"name": "DANIEL",
+													"class": "man",
+													"extra": {
+														"lastname": "LENHART",
+														"birthDate": "30.01.1979"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MARINA",
+															"class": "woman",
+															"extra": {
+																"lastname": "LENHART",
+																"maidenname": "KOVÁČ",
+																"birthDate": "21.01.1983"
+															}
+														},
+														"children": [{
+															"name": "MAJDA",
+															"class": "woman",
+															"extra": {
+																"lastname": "LENHART",
+																"birthDate": "02.03.2010"
+															}
+														}, {
+															"name": "LEJLA",
+															"class": "woman",
+															"extra": {
+																"lastname": "LENHART",
+																"birthDate": "16.04.2016"
+															}
+														}]
+													}]
+												}, {
+													"name": "DANIELA",
+													"class": "woman",
+													"extra": {
+														"maidenname": "LENHART",
+														"lastname": "CICKA",
+														"birthDate": "08.11.1980"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"lastname": "CICKA",
+																"birthDate": "30.09.1976"
+															}
+														},
+														"children": [{
+															"name": "VLATKO",
+															"class": "man",
+															"extra": {
+																"lastname": "CICKA",
+																"birthDate": "23.02.2000"
+															}
+														}, {
+															"name": "MONIKA",
+															"class": "woman",
+															"extra": {
+																"lastname": "CICKA",
+																"birthDate": "19.09.2003"
+															}
+														}]
+													}]
+												}]
+											}, {
+												"spouse": {
+													"name": "JURAJ",
+													"class": "man",
+													"extra": {
+														"lastname": "ĽAVROŠ",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "ŽIVOJNOV",
+														"maidenname": "ĽAVROŠ",
+														"birthDate": "04.08.1988",
+														"deathDate": "17.10.2022"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "PAVEL",
+															"class": "man",
+															"extra": {
+																"lastname": "ŽIVOJNOV",
+																"birthDate": "28.02.1973"
+															}
+														},
+														"children": [{
+															"name": "MIROSLAV",
+															"class": "man",
+															"extra": {
+																"lastname": "ŽIVOJNOV",
+																"birthDate": "01.01.?"
+															}
+														}, {
+															"name": "MARKO",
+															"class": "man",
+															"extra": {
+																"lastname": "ŽIVOJNOV",
+																"birthDate": "?"
+															}
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "MARTIN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "11.04.1922",
+										"deathDate": "07.04.2005"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"maidenname": "BABINKA",
+												"birthDate": "23.01.1924",
+												"deathDate": "23.11.1991"
+											}
+										}, 
+										"children": [{
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"lastname": "HALABRÍN",
+												"maidenname": "CHRŤAN",
+												"birthDate": "11.07.1951"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ĎURO",
+													"class": "man",
+													"extra": {
+														"lastname": "HALABRÍN",
+														"birthDate": "25.09.1949",
+														"deathDate": "06.01.2006"
+													}
+												},
+												"children": [{
+													"name": "MILKA",
+													"class": "woman",
+													"extra": {
+														"lastname": "PETROVIČ",
+														"maidenname": "HALABRÍN",
+														"birthDate": "24.07.1970"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "LADISLAV",
+															"class": "man",
+															"extra": {
+																"lastname": "PETROVIČ",
+																"birthDate": "15.07.1968"
+															}
+														},
+														"children": [{
+															"name": "DENI",
+															"class": "man",
+															"extra": {
+																"lastname": "PETROVIČ",
+																"birthDate": "05.05.1996"
+															}
+														}, {
+															"name": "IVETA",
+															"class": "woman",
+															"extra": {
+																"lastname": "PETROVIČ",
+																"birthDate": "17.06.2001"
+															}
+														}]
+													}]
+												}, {
+													"name": "DUŠAN",
+													"class": "man",
+													"extra": {
+														"lastname": "HALABRÍN",
+														"birthDate": "04.09.1972",
+														"deathDate": "14.07.2023"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "SNEŽANA",
+															"class": "woman",
+															"extra": {
+																"lastname": "HALABRÍN",
+																"maidenname": "ŠUĽA",
+																"birthDate": "25.10.1975"
+															}
+														},
+														"children": [{
+															"name": "DEJAN",
+															"class": "man",
+															"extra": {
+																"lastname": "HALABRÍN",
+																"birthDate": "28.10.1996"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "LIDIJA",
+																	"class": "woman",
+																	"extra": {
+																		"lastname": "HALABRÍN",
+																		"maidenname": "SLIVKA",
+																		"birthDate": "11.11.1994"
+																	}
+																},
+																"children": [{
+																	"name": "NINA",
+																	"class": "woman",
+																	"extra": {
+																		"lastname": "HALABRÍN",
+																		"birthDate": "06.12.2022"
+																	}
+																}]
+															}]
+														}, {
+															"name": "IVANA",
+															"class": "woman",
+															"extra": {
+																"lastname": "HALABRÍN",
+																"birthDate": "28.07.2003"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"lastname": "TAUBERT",
+												"maidenname": "CHRŤAN",
+												"birthDate": "11.02.1954"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "PAUL",
+													"class": "man",
+													"extra": {
+														"lastname": "TAUBERT",
+														"birthDate": "17.07.1953"
+													}
+												},
+												"children": [{
+													"name": "PAUL",
+													"class": "man",
+													"extra": {
+														"lastname": "TAUBERT",
+														"birthDate": "26.05.1979"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MARIA",
+															"class": "woman",
+															"extra": {
+																"lastname": "TAUBERT",
+																"maidenname": "RASPIRR",
+																"birthDate": "11.04.1981"
+															}
+														},
+														"children": [{
+															"name": "ERIK",
+															"class": "man",
+															"extra": {
+																"lastname": "TAUBERT",
+																"birthDate": "12.04.2018"
+															}
+														}]
+													}]
+												}, {
+													"name": "MARTIN",
+													"class": "man",
+													"extra": {
+														"lastname": "TAUBERT",
+														"birthDate": "21.11.1982"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ELENA",
+															"class": "woman",
+															"extra": {
+																"lastname": "TAUBERT",
+																"maidenname": "SLIVKA",
+																"birthDate": "16.12.1988"
+															}
+														},
+														"children": [{
+															"name": "MARTIN",
+															"class": "man",
+															"extra": {
+																"lastname": "TAUBERT",
+																"birthDate": "15.09.2022"
+															}
+														}, {
+															"name": "ERVIN",
+															"class": "man",
+															"extra": {
+																"lastname": "TAUBERT",
+																"birthDate": "13.09.2024"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"lastname": "KOTVÁŠ",
+												"maidenname": "CHRŤAN",
+												"birthDate": "07.11.1955"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ONDREJ",
+													"class": "man",
+													"extra": {
+														"lastname": "KOTVÁŠ",
+														"birthDate": "24.11.1951"
+													}
+												},
+												"children": [{
+													"name": "ELENKA",
+													"class": "woman",
+													"extra": {
+														"lastname": "RADOVIĆ",
+														"maidenname": "KOTVÁŠ",
+														"birthDate": "08.11.1977"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "SAŠA",
+															"class": "man",
+															"extra": {
+																"lastname": "RADOVIĆ",
+																"birthDate": "25.07.1971"
+															}
+														},
+														"children": [{
+															"name": "KRISTINA",
+															"class": "woman",
+															"extra": {
+																"lastname": "KASALA",
+																"maidenname": "RADOVIĆ",
+																"birthDate": "18.01.2001",
+																"extraText": "Žijú na Slovensku"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "ADAM",
+																	"class": "man",
+																	"extra": {
+																		"lastname": "KASALA",
+																		"birthDate": "12.06.1999"
+																	}
+																},
+																"children": [{
+																	"name": "ADAM",
+																	"class": "man",
+																	"extra": {
+																		"lastname": "KASALA",
+																		"birthDate": "24.03.2023"
+																	}
+																}]
+															}]
+														}, {
+															"name": "JOVAN",
+															"class": "man",
+															"extra": {
+																"lastname": "RADOVIĆ",
+																"birthDate": "20.04.2007"
+															}
+														}]
+													}]
+												}, {
+													"name": "ZLATKO",
+													"class": "man",
+													"extra": {
+														"lastname": "KOTVÁŠ",
+														"birthDate": "26.09.1983"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"lastname": "KOTVÁŠ",
+																"maidenname": "HAVAJ",
+																"birthDate": "04.11.1985"
+															}
+														},
+														"children": [{
+															"name": "NATALI",
+															"class": "woman",
+															"extra": {
+																"lastname": "KOTVÁŠ",
+																"birthDate": "22.11.2008"
+															}
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "MARIA",
+									"class": "woman",
+									"extra": {
+										"lastname": "GÁLIK",
+										"maidenname": "CHRŤAN",
+										"birthDate": "18.01.1925",
+										"deathDate": "09.01.1995"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"lastname": "GÁLIK",
+												"birthDate": "19.09.1923",
+												"deathDate": "19.02.1997"
+											}
+										},
+										"children": [{
+											"name": "MARIA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "11.05.1944",
+												"lastname": "PETROVIČ",
+												"deathDate": "?",
+												"maidenname": "GÁLIK"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "27.08.1940",
+														"deathDate": "?",
+														"lastname": "PETROVIČ"
+													}
+												},
+												"children": [{
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "24.09.1965",
+														"lastname": "PETROVIČ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"lastname": "PETROVIČ",
+																"birthDate": "10.06.1967",
+																"maidenname": "DURGALA"
+															}
+														},
+														"children": [{
+															"name": "PAVEL",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "PETROVIČ"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "?",
+																	"class": "woman",
+																	"extra": {
+																		"birthDate": "?",
+																		"lastname": "PETROVIČ",
+																		"maidenname": "?"
+																	}
+																}
+															}]
+														}, {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "PETROVIČ"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "?",
+																	"class": "woman",
+																	"extra": {
+																		"birthDate": "?",
+																		"lastname": "PETROVIČ",
+																		"maidenname": "?"
+																	}
+																}
+															}]
+														}]
+													}]
+												}, {
+													"name": "MARIA",
+													"class": "woman",
+													"extra": {
+														"lastname": "TRNOVSKÝ",
+														"birthDate": "16.09.1967",
+														"maidenname": "PETROVIČ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "17.05.1961",
+																"lastname": "TRNOVSKÝ"
+															}
+														},
+														"children": [{
+															"name": "DIANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "TRNOVSKÝ"
+															}
+														}, {
+															"name": "DARINA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "TRNOVSKÝ"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "ŠIŠKA",
+												"maidenname": "GÁLIK"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"lastname": "ŠIŠKA",
+														"birthDate": "?"
+													}
+												},
+												"children": [{
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "ŠIŠKA"
+													}
+												}]
+											}]
+										}, {
+											"name": "?",
+											"class": "woman",
+											"extra": {
+												"lastname": "GÁLIK",
+												"deathDate": "Zomrela mladá"
+											}
+										}]
+									}]
+								}]
+							}]
+						}, {
+							"name": "JULIŠ",
+							"class": "woman",
+							"extra": {
+								"lastname": "GALAS",
+								"maidenname": "CHRŤAN",
+								"birthDate": "19.05.1882",
+								"deathDate": "?"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "ADAM",
+									"class": "man",
+									"extra": {
+										"lastname": "GALAS",
+										"birthDate": "29.11.1882",
+										"deathDate": "22.07.1960"
+									}
+								},
+								"children": [{
+									"name": "ADAM",
+									"class": "man",
+									"extra": {
+										"lastname": "GALAS",
+										"birthDate": "29.10.1907",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "MARIA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "TALČÍK",
+												"lastname": "GALAS",
+												"birthDate": "1911",
+												"deathDate": "? pred 1957"
+											}
+										},
+										"children": [{
+											"name": "ADAM",
+											"class": "man",
+											"extra": {
+												"lastname": "GALAS",
+												"birthDate": "11.02.1934",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MARIA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "13.05.1939",
+														"deathDate": "?",
+														"lastname": "GALAS",
+														"maidenname": "DIŠPITER"
+													}
+												},
+												"children": [{
+													"name": "ADAM",
+													"class": "man",
+													"extra": {
+														"birthDate": "03.03.1959",
+														"lastname": "GALAS"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANNA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "12.02.1962",
+																"lastname": "GALAS",
+																"maidenname": "MAGLÓCKOVÁ"
+															}
+														},
+														"children": [{
+															"name": "VLADKO",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "GALAS"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "LJILJANA",
+																	"class": "woman",
+																	"extra": {
+																		"birthDate": "09.12.1988",
+																		"lastname": "GALAS",
+																		"maidenname": "ĽAVROŠ"
+																	}
+																},
+																"children": [{
+																	"name": "BENJAMIN",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "09.06.2009",
+																		"lastname": "GALAS"
+																	}
+																}, {
+																	"name": "?",
+																	"class": "woman",
+																	"extra": {
+																		"birthDate": "?",
+																		"lastname": "GALAS"
+																	}
+																}]
+															}]
+														}]
+													}]
+												}, {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "27.11.1971",
+														"lastname": "GALAS"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANNA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "19.08.1974",
+																"lastname": "GALAS",
+																"maidenname": "POVOLNOVÁ"
+															}
+														},
+														"children": [{
+															"name": "MAGDALENA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "25.04.1996",
+																"lastname": "GALAS"
+															}
+														}, {
+															"name": "ALEKSANDRA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "07.02.2001",
+																"lastname": "GALAS"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "PAVEL",
+											"class": "man",
+											"extra": {
+												"lastname": "GALAS",
+												"birthDate": "11.02.1940",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "GALAS",
+														"maidenname": "DIŠPITER",
+														"birthDate": "09.10.1934",
+														"deathDate": "?"
+													}
+												}
+											}]
+										}]
+									}]
+								}, {
+									"name": "EVA",
+									"class": "woman",
+									"extra": {
+										"lastname": "HRUBÍK",
+										"maidenname": "GALAS",
+										"birthDate": "02.05.1914",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "MICHAL",
+											"class": "man",
+											"extra": {
+												"lastname": "HRUBÍK",
+												"birthDate": "1913",
+												"deathDate": "?"
+											}
+										}
+									}]
+								}]
+							}]
+						}, {
+							"name": "PAULINA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "04.01.1884",
+								"deathDate": "27.06.1887"
+							}
+						}, {
+							"name": "JAN",
+							"class": "man",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "22.06.1885",
+								"deathDate": "23.01.1959",
+								"extraText": "Žili v Titeli"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "?",
+									"class": "woman",
+									"extra": {
+										"birthDate": "?",
+										"deathDate": "?",
+										"lastname": "CHRŤAN",
+										"maidenname": "HUCKOVÁ",
+										"extraText": "Z Bieleho Blata"
+									}
+								},
+								"children": [{
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"deathDate": "Narodený mimo manželstva, prijatý vo manželstve so ženou Huckovou"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "MARŠAĽ"
+											}
+										},
+										"children": [{
+											"name": "ANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "13.01.1935",
+												"deathDate": "20.03.2024",
+												"lastname": "PAVELKA",
+												"maidenname": "CHRŤAN"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "08.09.1931",
+														"deathDate": "?",
+														"lastname": "PAVELKA"
+													}
+												},
+												"children": [{
+													"name": "EVA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAVELKA"
+													}
+												}, {
+													"name": "ANKA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAVELKA"
+													}
+												}, {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PAVELKA"
+													}
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "?",
+										"deathDate": "?",
+										"extraText": "Žil v Perlézy"
+									}
+								}, {
+									"name": "KAROL",
+									"class": "man",
+									"extra": {
+										"lastname": "HERTYAN",
+										"birthDate": "?",
+										"deathDate": "?",
+										"extraText": "Pracoval v Zreňanine"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "?",
+											"class": "woman",
+											"extra": {
+												"lastname": "HERTYAN",
+												"maidenname": "?",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "ARANKA",
+											"class": "woman",
+											"extra": {
+												"lastname": "?",
+												"birthDate": "?",
+												"maidenname": "HERTYAN"
+											}
+										}, {
+											"name": "ANKA",
+											"class": "woman",
+											"extra": {
+												"lastname": "VRATONIĆ",
+												"birthDate": "?",
+												"maidenname": "HERTYAN",
+												"extraText": "Žili v Belehrade"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MARKO",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "VRATONIĆ"
+													}
+												},
+												"children": [{
+													"name": "IGOR",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "VRATONIĆ"
+													}
+												}]
+											}]
+										}]
+									}]
+								}]
+							}]
+						}, {
+							"name": "JOZEFINA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "06.03.1887",
+								"deathDate": "01.08.1887"
+							}
+						}, {
+							"name": "KAROĽ",
+							"class": "man",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "19.04.1888",
+								"deathDate": "?",
+								"extraText": "Žili v Kovačici"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "MARIA",
+									"class": "woman",
+									"extra": {
+										"birthDate": "?",
+										"deathDate": "?",
+										"maidenname": "JANIŠ",
+										"lastname": "CHRŤAN"
+									}
+								}, 
+								"children": [{
+									"name": "PAVEL",
+									"class": "man",
+									"extra": {
+										"birthDate": "?",
+										"deathDate": "?",
+										"lastname": "CHRŤAN",
+										"extraText": "profesor"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "?"
+											}
+										},
+										"children": [{
+											"name": "JARO",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}, {
+											"name": "MARIENA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}]
+									}]
+								}, {
+									"name": "KAROL",
+									"class": "man",
+									"extra": {
+										"birthDate": "?",
+										"deathDate": "?",
+										"lastname": "CHRŤAN"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "?"
+											}
+										},
+										"children": [{
+											"name": "ĽUDMILA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "KRUNIĆ",
+												"maidenname": "CHRŤAN"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "?",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"deathDate": "?",
+														"lastname": "KRUNIĆ"
+													}
+												}
+											}]
+										}, {
+											"name": "MILO",
+											"class": "man",
+											"extra": {
+												"birthDate": "21.09.1960",
+												"deathDate": "30.09.2021",
+												"lastname": "CHRŤAN"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "VESNA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "30.04.1968",
+														"deathDate": "12.02.2019",
+														"lastname": "CHRŤAN",
+														"maidenname": "BARNÁKOVÁ"
+													}
+												},
+												"children": [{
+													"name": "VIKTOR",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "CHRŤAN"
+													}
+												}]
+											}]
+										}]
+									}]
+								}]
+							}]
+						}, {
+							"name": "PAULINA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "20.02.1890",
+								"deathDate": "?",
+								"extraText": "Tajšla do Ameriky"
+							}
+						}, {
+							"name": "JOZEF",
+							"class": "man",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "10.01.1892",
+								"deathDate": "13.01.1967"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "EVA",
+									"class": "woman",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"maidenname": "ŽOLNAJ",
+										"birthDate": "27.03.1899",
+										"deathDate": "10.03.1984"
+									}
+								},
+								"children": [{
+									"name": "EVA",
+									"class": "woman",
+									"extra": {
+										"lastname": "TRNOVSKÝ",
+										"maidenname": "CHRŤAN",
+										"birthDate": "29.08.1920",
+										"deathDate": "29.03.1996"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ONDREJ",
+											"class": "man",
+											"extra": {
+												"lastname": "TRNOVSKÝ",
+												"birthDate": "24.09.1916",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"maidenname": "TRNOVSKÝ",
+												"lastname": "PETROVIČ"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "PETROVIČ"
+													}
+												}, 
+												"children": [{
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "02.02.1971",
+														"lastname": "PETROVIČ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANNA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "03.06.1979",
+																"lastname": "PETROVIČ",
+																"maidenname": "KARLEČÍK"
+															}
+														},
+														"children": [{
+															"name": "STEFANI",
+															"class": "woman",
+															"extra": {
+																"lastname": "PETROVIČ",
+																"birthDate": "11.07.1997"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ONDREJ",
+											"class": "man",
+											"extra": {
+												"birthDate": "29.08.1951",
+												"lastname": "TRNOVSKÝ"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MARIA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "13.06.1954",
+														"lastname": "TRNOVSKÝ",
+														"maidenname": "MAMOJKA"
+													}
+												}, 
+												"children": [{
+													"name": "ONDREJ",
+													"class": "man",
+													"extra": {
+														"lastname": "TRNOVSKÝ",
+														"birthDate": "?"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JARKA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "TRNOVSKÝ",
+																"maidenname": "KOTVÁŠ"
+															}
+														},
+														"children": [{
+															"name": "ANDREJ",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "TRNOVSKÝ"
+															}
+														}, {
+															"name": "PAVEL",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "TRNOVSKÝ"
+															}
+														}]
+													}]
+												}, {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"lastname": "TRNOVSKÝ",
+														"birthDate": "01.08.1982"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "KATARINA",
+															"class": "woman",
+															"extra": {
+																"lastname": "TRNOVSKÝ",
+																"birthDate": "19.05.1985",
+																"maidenname": "STREHOVSKÝ"
+															}
+														},
+														"children": [{
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"lastname": "TRNOVSKÝ",
+																"birthDate": "?"
+															}
+														}, {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"lastname": "TRNOVSKÝ",
+																"birthDate": "?"
+															}
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "ZUZANA",
+									"class": "woman",
+									"extra": {
+										"lastname": "BRTKA",
+										"maidenname": "CHRŤAN",
+										"birthDate": "20.05.1922",
+										"deathDate": "11.07.1998"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "MICHAL",
+											"class": "man",
+											"extra": {
+												"lastname": "BRTKA",
+												"birthDate": "08.08.1915",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "MICHAL",
+											"class": "man",
+											"extra": {
+												"birthDate": "13.11.1943",
+												"lastname": "BRTKA"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ZUZANA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "17.08.1947",
+														"maidenname": "SLIVKA",
+														"lastname": "BRTKA"
+													}
+												},
+												"children": [{
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"maidenname": "BRTKA",
+														"birthDate": "26.10.1968",
+														"lastname": "HLAVATÝ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MICHAL",
+															"class": "man",
+															"extra": {
+																"birthDate": "04.07.1965",
+																"lastname": "HLAVATÝ"
+															}
+														}, 
+														"children": [{
+															"name": "MICHAL",
+															"class": "man",
+															"extra": {
+																"birthDate": "09.02.1994",
+																"lastname": "HLAVATÝ"
+															}
+														}, {
+															"name": "?",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "HLAVATÝ"
+															}
+														}]
+													}]
+												}, {
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"lastname": "BRTKA",
+														"birthDate": "?"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANDREA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BRTKA",
+																"maidenname": "HUČKA"
+															}
+														},
+														"children": [{
+															"name": "MICHAL",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BRTKA"
+															}
+														}, {
+															"name": "NADJA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BRTKA"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"maidenname": "BRTKA",
+												"lastname": "MARUŠNÍK"
+											},
+											"marriages": [
+												{
+													"spouse": {
+														"name": "PAVEL",
+														"class": "man",
+														"extra": {
+															"birthDate": "?",
+															"deathDate": "?",
+															"lastname": "MARUŠNÍK"
+														}
+													},
+													"children": [{
+														"name": "ANNA",
+														"class": "woman",
+														"extra": {
+															"birthDate": "26.04.1970",
+															"lastname": "STREHOVSKÝ",
+															"maidenname": "MARUŠNÍK"
+														},
+														"marriages": [{
+															"spouse": {
+																"name": "MICHAL",
+																"class": "man",
+																"extra": {
+																	"birthDate": "04.06.1969",
+																	"lastname": "STREHOVSKÝ"
+																}
+															},
+															"children": [{
+																"name": "SANJA",
+																"class": "woman",
+																"extra": {
+																	"lastname": "BREZINA", 
+																	"maidenname": "STREHOVSKÝ",
+																	"birthDate": "?"
+																},
+																"marriages": [{
+																	"spouse": {
+																		"name": "MICHAL",
+																		"class": "man",
+																		"extra": {
+																			"birthDate": "?",
+																			"lastname": "BREZINA"
+																		}
+																	}
+																}]
+															}, {
+																"name": "TANJA",
+																"class": "woman",
+																"extra": {
+																	"lastname": "STREHOVSKÝ",
+																	"birthDate": "?"
+																}
+															}]
+														}]
+													}]
+												}
+											]
+										}, {
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"lastname": "BRTKA",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										}]
+									}]
+								}, {
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "24.04.1924",
+										"deathDate": "28.06.1987"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"lastname": "CHRŤAN",
+												"maidenname": "ĎURICA",
+												"birthDate": "27.01.1934",
+												"deathDate": "09.08.1999"
+											}
+										},
+										"children": [{
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "KRÁLIK",
+												"maidenname": "CHRŤAN"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "KRÁLIK"
+													}
+												},
+												"children": [{
+													"name": "SANJA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?",
+														"maidenname": "KRÁLIK"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BABKA"
+															}
+														},
+														"children": [{
+															"name": "IVANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BABKA"
+															}
+														}]
+													}, {
+														"spouse": {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"lastname": "VALENTA",
+																"birthDate": "?"
+															}
+														},
+														"children": [{
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "VALENTA"
+															}
+														}]
+													}]
+												}, {
+													"name": "IRENA",
+													"class": "woman",
+													"extra": {
+														"maidenname": "KRÁLIK",
+														"lastname": "ONDRÍK",
+														"birthDate": "06.04.1977"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "21.11.1971",
+																"lastname": "ONDRÍK"
+															}
+														},
+														"children": [{
+															"name": "ANAMARIA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "15.07.1998",
+																"lastname": "ONDRÍK"
+															}
+														}, {
+															"name": "ANASTASIA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "07.12.2001",
+																"lastname": "ONDRÍK"
+															}
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "HADŽIJA",
+												"maidenname": "CHRŤAN",
+												"extraText": "Ziju v Novom Sáde"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "?",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "HADŽIJA"
+													}
+												},
+												"children": [{
+													"name": "BRANJO",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "HADŽIJA"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "?",
+															"class": "woman",
+															"extra": {
+																"lastname": "HADŽIJA",
+																"birthDate": "?"
+															}
+														}
+													}]
+												}]
+											}]
+										}]
+									}]
+								}]
+							}]
+						}, {
+							"name": "STEFAN",
+							"class": "man",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"birthDate": "18.03.1894",
+								"deathDate": "16.03.1962"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "JULIA",
+									"class": "woman",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"maidenname": "FROMAN",
+										"birthDate": "?",
+										"deathDate": "?"
+									}
+								},
+								"children": [{
+									"name": "ILONA",
+									"class": "woman",
+									"extra": {
+										"maidenname": "CHRŤAN",
+										"lastname": "BICOK",
+										"birthDate": "?",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ŠANDOR",
+											"class": "man",
+											"extra": {
+												"lastname": "BICOK",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "GORDANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "VANBAČ",
+												"extraText": "Narodená mimo manželstva"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "?",
+													"class": "man",
+													"extra": {
+														"lastname": "VANBAČ",
+														"birthDate": "?"
+													}
+												}
+											}]
+										}, {
+											"name": "TIBOR",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "BICOK"
+											}
+										}, {
+											"name": "ZOLTAN",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "BICOK"
+											}
+										}]
+									}]
+								}, {
+									"name": "KAROĽ",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "?",
+										"deathDate": "?",
+										"extraText": "Žil v Poľsku"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ALINKA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "?"
+											}
+										},
+										"children": [{
+											"name": "STEFAN",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}, {
+											"name": "ELŽUŇA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}, {
+											"name": "AJŠA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}]
+									}, {
+										"spouse": {
+											"name": "MARTA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "?"
+											}
+										},
+										"children": [{
+											"name": "MIRO",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "CHRŤAN"
+											}
+										}]
+									}]
+								}, {
+									"name": "STEFAN",
+									"class": "man",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "30.07.1927",
+										"deathDate": "26.07.2006"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "CHRŤAN",
+												"maidenname": "ŠPRINGEL"
+											},
+											"children": [{
+												"name": "MARIA",
+												"class": "woman",
+												"extra": {
+													"birthDate": "18.08.1953",
+													"lastname": "BARCA",
+													"maidenname": "CHRŤAN",
+													"extraText": "Žijú v Kovačici"
+												},
+												"marriages": [{
+													"spouse": {
+														"name": "ADAM",
+														"class": "man",
+														"extra": {
+															"lastname": "BARCA",
+															"birthDate": "21.03.1953"
+														}
+													}
+												}]
+											}, {
+												"name": "PAULINA",
+												"class": "woman",
+												"extra": {
+													"birthDate": "1956",
+													"lastname": "?",
+													"maidenname": "CHRŤAN",
+													"extraText": "Žijú v Pánčove"
+												},
+												"marriages": [{
+													"spouse": {
+														"name": "?",
+														"class": "woman",
+														"extra": {
+															"lastname": "?",
+															"birthDate": "21.03.1953"
+														}
+													}
+												}]
+											}]
+										},
+										"children": [{
+											"name": "MARIA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "BOKOR",
+												"maidenname": "CHRŤAN",
+												"extraText": "Ziju v 7. Juli"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "?",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "BOKOR"
+													}
+												}
+											}]
+										}, {
+											"name": "PAULINA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "?",
+												"maidenname": "CHRŤAN",
+												"extraText": "Žije v Pančove"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "?",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?"
+													}
+												}
+											}]
+										}]
+									}]
+								}, {
+									"name": "MARIA",
+									"class": "woman",
+									"extra": {
+										"lastname": "CHRŤAN",
+										"birthDate": "1928/29",
+										"deathDate": "25.05.1934"
+									}
+								}, {
+									"name": "PAULINA",
+									"class": "woman",
+									"extra": {
+										"birthDate": "?",
+										"deathDate": "?",
+										"lastname": "KOMINKA",
+										"maidenname": "CHRŤAN"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "JOZEF ?",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "KOMINKA"
+											}
+										},
+										"children": [{
+											"name": "KATARINA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "1947 ?",
+												"lastname": "HLAVATÝ",
+												"maidenname": "KOMINKA"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "HLAVATÝ"
+													}
+												},
+												"children": [{
+													"name": "NATAŠA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?",
+														"maidenname": "HLAVATÝ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "?"
+															}
+														}
+													}]
+												}, {
+													"name": "OĽA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "?",
+														"maidenname": "HLAVATÝ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "?"
+															}
+														}
+													}]
+												}]
+											}]
+										}, {
+											"name": "VIERA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "1953",
+												"lastname": "ŠIMEK",
+												"maidenname": "KOMINKA"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "ŠIMEK"
+													}
+												},
+												"children": [{
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"lastname": "ŠIMEK",
+														"birthDate": "?"
+													}
+												}, {
+													"name": "JOZEF",
+													"class": "man",
+													"extra": {
+														"lastname": "ŠIMEK",
+														"birthDate": "?"
+													}
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "ANNA",
+									"class": "woman",
+									"extra": {
+										"lastname": "MAUDOŠ",
+										"maidenname": "CHRŤAN",
+										"birthDate": "02.11.1925",
+										"deathDate": "02.09.1994"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ALEKSANDER",
+											"class": "man",
+											"extra": {
+												"lastname": "MAUDOŠ",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "DUŠAN",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"deathDate": "?",
+												"lastname": "MAUDOŠ"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "MAUDOŠ",
+														"birthDate": "?",
+														"maidenname": "MARKO",
+														"extraText": "Žijú v Nemecku"
+													}
+												},
+												"children": [{
+													"name": "DUŠANA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "28.01.1971",
+														"lastname": "KOČOVSKÝ",
+														"maidenname": "MAUDOŠ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZLATKO",
+															"class": "man",
+															"extra": {
+																"birthDate": "28.06.1970",
+																"lastname": "KOČOVSKÝ"
+															}
+														}
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "JULIANA",
+									"class": "woman",
+									"extra": {
+										"maidenname": "CHRŤAN",
+										"lastname": "JAKAB",
+										"birthDate": "04.05.1931",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "PAVEL",
+											"class": "man",
+											"extra": {
+												"lastname": "JAKAB",
+												"birthDate": "?",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "VLADIMIR",
+											"class": "man",
+											"extra": {
+												"lastname": "JAKAB",
+												"birthDate": "23.09.1952",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "30.08.1952",
+														"lastname": "JAKAB",
+														"maidenname": "TOMEK"
+													}
+												},
+												"children": [{
+													"name": "JASNA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "25.03.1972",
+														"lastname": "UHRIN",
+														"maidenname": "JAKAB"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "MICHAL",
+															"class": "man",
+															"extra": {
+																"birthDate": "02.08.1966",
+																"lastname": "UHRIN"
+															}
+														},
+														"children": [{
+															"name": "NINA",
+															"class": "woman",
+															"extra": {
+																"lastname": "UHRIN",
+																"birthDate": "?"
+															}
+														}]
+													}]
+												}, {
+													"name": "LADISLAV",
+													"class": "man",
+													"extra": {
+														"birthDate": "04.08.1974",
+														"lastname": "JAKAB"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ELENA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "25.02.1979",
+																"lastname": "JAKAB",
+																"maidenname": "BREZINA"
+															}
+														}
+													}]
+												}]
+											}]
+										}, {
+											"name": "MIRO",
+											"class": "man",
+											"extra": {
+												"birthDate": "?",
+												"lastname": "JAKAB"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "JAKAB",
+														"maidenname": "ZLOCH"
+													}
+												},
+												"children": [{
+													"name": "MIRO",
+													"class": "man",
+													"extra": {
+														"lastname": "JAKAB",
+														"birthDate": "?"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ANNA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "JAKAB",
+																"maidenname": "HUCKA"
+															}
+														},
+														"children": [{
+															"name": "MARTA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "27.07.1989",
+																"lastname": "PETRÁŠ",
+																"maidenname": "JAKAB",
+																"extraText": "Žijú v Nemecku"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "FILIP JAN",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "15.09.1984",
+																		"lastname": "PETRÁŠ"
+																	}
+																}
+															}]
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}]
+							}]
+						}, {
+							"name": "MARTIN",
+							"class": "man",
+							"extra": {
+								"birthDate": "1895 ?",
+								"deathDate": "?",
+								"lastname": "CHRŤAN",
+								"extraText": "Žili v Pánčeve"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "?",
+									"class": "woman",
+									"extra": {
+										"birthDate": "?",
+										"lastname": "CHRŤAN",
+										"deathDate": "?",
+										"maidenname": "ĎURÍK ?"
+									}
+								},
+								"children": [{
+									"name": "",
+									"class": "man",
+									"extra": {
+										"lastname": "",
+										"birthDate": "",
+										"extraText": "Detí: <br /> LENKA, KAROL  <br /> ADOLF, GUSTAV  <br /> ANA, JOZEF  <br /> JAN, STEFAN  <br /> MARTIN a MICHAL"
+									}
+								}]
+							}]
+						}]
+					}]
+				}, {
+					"name": "KAROĽ",
+					"class": "man",
+					"extra": {
+						"lastname": "CHRŤAN",
+						"birthDate": "13.02.1857",
+						"deathDate": "?"
+					},
+					"textClass": "emphasis",
+					"marriages": [{
+						"spouse": {
+							"name": "ZUZANA",
+							"class": "woman",
+							"extra": {
+								"lastname": "CHRŤAN",
+								"maidenname": "PETRAŠ",
+								"birthDate": "05.09.1859",
+								"deathDate": "?"
+							}
+						},
+						"children": [
+							{
+								"name": "JAN",
+								"class": "man",
+								"extra": {
+									"lastname": "CHRŤAN",
+									"birthDate": "23.02.1880",
+									"deathDate": "18.06.1886"
+								}
+							} ,
+							{
+								"name": "MARTIN",
+								"class": "man",
+								"extra": {
+									"lastname": "CHRŤAN",
+									"birthDate": "18.11.1883",
+									"deathDate": "?"
+								},
+								"marriages": [{
+									"spouse": {
+										"name": "ZUZANA",
+										"class": "woman",
+										"extra": {
+											"lastname": "CHRŤAN",
+											"maidenname": "SAMPOR",
+											"birthDate": "1888",
+											"deathDate": "?"
+										}
+									},
+									"children": [{
+										"name": "MARTIN",
+										"class": "man",
+										"extra": {
+											"lastname": "CHRŤAN",
+											"birthDate": "22.04.1907",
+											"deathDate": "?"
+										}
+									}, {
+										"name": "KAROĽ",
+										"class": "man",
+										"extra": {
+											"lastname": "CHRŤAN",
+											"birthDate": "28.01.1914",
+											"deathDate": "?"
+										}
+									}]
+								}]
+							}, {
+								"name": "ZUZANA",
+								"class": "woman",
+								"extra": {
+									"maidenname": "CHRŤAN",
+									"lastname": "PETRÍK",
+									"birthDate": "18.10.1886",
+									"deathDate": "31.10.1949",
+									"extraText": "Žili v Kovačici"
+								},
+								"marriages": [{
+									"spouse": {
+										"name": "JOZEF",
+										"class": "man",
+										"extra": {
+											"lastname": "PETRÍK",
+											"birthDate": "1883",
+											"deathDate": "?"
+										}
+									}
+								}]
+							}, {
+								"name": "KAROĽ",
+								"class": "man",
+								"extra": {
+									"lastname": "CHRŤAN",
+									"birthDate": "01.08.1890",
+									"deathDate": "?"
+								}
+							}, {
+								"name": "JAN",
+								"class": "man",
+								"extra": {
+									"lastname": "CHRŤAN",
+									"birthDate": "06.01.1900",
+									"deathDate": "1940",
+									"extraText": "Žili v Kovačici"
+								},
+								"marriages": [{
+									"spouse": {
+										"name": "?",
+										"class": "woman",
+										"extra": {
+											"birthDate": "?",
+											"deathDate": "?",
+											"maidenname": "?",
+											"lastname": "CHRŤAN"
+										}
+									},
+									"children": [{
+										"name": "MARTIN",
+										"class": "man",
+										"extra": {
+											"lastname": "CHRŤAN",
+											"birthDate": "?",
+											"deathDate": "?"
+										},
+										"marriages": [{
+											"spouse": {
+												"name": "?",
+												"class": "woman",
+												"extra": {
+													"birthDate": "?",
+													"deathDate": "?",
+													"maidenname": "?",
+													"lastname": "CHRŤAN"
+												}
+											},
+											"children": [{
+												"name": "?",
+												"class": "man",
+												"extra": {
+													"lastname": "CHRŤAN",
+													"birthDate": "?"
+												},
+												"marriages": [{
+													"spouse": {
+														"name": "?",
+														"class": "woman",
+														"extra": {
+															"birthDate": "?",
+															"maidenname": "?",
+															"lastname": "CHRŤAN"
+														}
+													},
+													"children": [{
+														"name": "JAN",
+														"class": "man",
+														"extra": {
+															"lastname": "CHRŤAN",
+															"birthDate": "?",
+															"extraText": "Žijú v Bánskej Bystrici"
+														},
+														"marriages": [{
+															"spouse": {
+																"name": "KATARINA",
+																"class": "woman",
+																"extra": {
+																	"birthDate": "?",
+																	"maidenname": "MIŠÍKOVÁ",
+																	"lastname": "CHRŤAN"
+																}
+															},
+															"children": [{
+																"name": "?",
+																"class": "man",
+																"extra": {
+																	"lastname": "CHRŤAN",
+																	"birthDate": "?"
+																}
+															}, {
+																"name": "?",
+																"class": "man",
+																"extra": {
+																	"lastname": "CHRŤAN",
+																	"birthDate": "?"
+																}
+															}]
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}]
+							}
+						]
+					}]
+				}, {
+					"name": "JULIA",
+					"class": "woman",
+					"extra": {
+						"lastname": "GALO",
+						"maidenname": "CHRŤAN",
+						"birthDate": "01.04.1859",
+						"deathDate": "05.03.1937",
+						"extraText": "Žili v Kovačici"
+					},
+					"textClass": "emphasis",
+					"marriages": [{
+						"spouse": {
+							"name": "STEFAN",
+							"class": "man",
+							"extra": {
+								"lastname": "GALO",
+								"birthDate": "1855",
+								"deathDate": "?"
+							}
+						}
+					}]
+				}, {
+					"name": "ZUZANA",
+					"class": "woman",
+					"extra": {
+						"lastname": "KUCHÁRIK",
+						"maidenname": "CHRŤAN",
+						"birthDate": "03.08.1862",
+						"deathDate": "10 .02.1934"
+					},
+					"textClass": "emphasis",
+					"marriages": [{
+						"spouse": {
+							"name": "MICHAL",
+							"class": "man",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "1860",
+								"deathDate": "13.02.1932"
+							}
+						},
+						"children": [{
+							"name": "JULIA",
+							"class": "woman",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "08.06.1884",
+								"deathDate": "02.07.1884"
+							}
+						}, {
+							"name": "ANNA",
+							"class": "woman",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "08.06.1884",
+								"deathDate": "02.07.1884"
+							}
+						}, {
+							"name": "ZUZANA",
+							"class": "woman",
+							"extra": {
+								"lastname": "VALENTA",
+								"maidenname": "KUCHÁRIK",
+								"birthDate": "14.11.1885",
+								"deathDate": "17.06.1959"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "MICHAL",
+									"class": "man",
+									"extra": {
+										"lastname": "HLAVATÝ",
+										"birthDate": "08.04.1883",
+										"deathDate": "01.12.1915"
+									}
+								},
+								"children": [{
+									"name": "MICHAL",
+									"class": "man",
+									"extra": {
+										"lastname": "HLAVATÝ",
+										"birthDate": "09.04.1904",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "PETRAŠ",
+												"lastname": "HLAVATÝ",
+												"birthDate": "26.02.1905",
+												"deathDate": "?"
+											}
+										}
+									}, {
+										"spouse": {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "MARŠAL",
+												"lastname": "HLAVATÝ",
+												"birthDate": "23.07.1905",
+												"deathDate": "13.01.1958"
+											}
+										},
+										"children": [{
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "HLAVATÝ",
+												"lastname": "PETROVIČ",
+												"birthDate": "07.04.1925",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "24.12.1921",
+														"deathDate": "?",
+														"lastname": "PETROVIČ"
+													}
+												},
+												"children": [{
+													"name": "PAVEL",
+													"class": "man",
+													"extra": {
+														"birthDate": "23.08.1946",
+														"lastname": "PETROVIČ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "28.08.1948",
+																"lastname": "PETROVIČ",
+																"maidenname": "ŠIRKA"
+															}
+														},
+														"children": [{
+															"name": "PAVEL",
+															"class": "man",
+															"extra": { 
+																"birthDate": "05.11.1968",
+																"lastname": "PETROVIČ"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "ANNA",
+																	"class": "woman",
+																	"extra": { 
+																		"birthDate": "03.01.1975",
+																		"maidenname": "SLIVKA",
+																		"lastname": "PETROVIČ"
+																	}
+																},
+																"children": [{
+																	"name": "VLADIMIR",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "13.05.1996",
+																		"lastname": "PETROVIČ"
+																	}
+																}, {
+																	"name": "IVAN",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "19.08.2004",
+																		"lastname": "PETROVIČ"
+																	}
+																}]
+															}]
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "HLAVATÝ",
+										"birthDate": "06.08.1905",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"maidenname": "MAJDLEN",
+												"lastname": "HLAVATÝ",
+												"birthDate": "16.06.1903",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"lastname": "HLAVATÝ",
+												"birthDate": "27.11.1924",
+												"deathDate": "?"
+											}
+										}, {
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"lastname": "HLAVATÝ",
+												"birthDate": "24.05.1930",
+												"deathDate": "?"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ROZINA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "07.10.1931",
+														"deathDate": "?",
+														"lastname": "HLAVATÝ",
+														"maidenname": "KOTVÁŠ"
+													}
+												}
+											}]
+										}]
+									}]
+								}]
+							}, {
+								"spouse": {
+									"name": "MARTIN",
+									"class": "man",
+									"extra": {
+										"lastname": "VALENTA",
+										"birthDate": "17.10.1892",
+										"deathDate": "?"
+									}
+								},
+								"children": [{
+									"name": "ZUZANA",
+									"class": "woman",
+									"extra": {
+										"maidenname": "VALENTA",
+										"lastname": "ŽIAK",
+										"birthDate": "13.01.1919",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "MARTIN",
+											"class": "man",
+											"extra": {
+												"lastname": "ŽIAK",
+												"birthDate": "06.11.1913",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "17.05.1940",
+												"maidenname": "ŽIAK",
+												"lastname": "PETRÁŠ"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ONDREJ",
+													"class": "man",
+													"extra": {
+														"birthDate": "24.03.1937",
+														"lastname": "PETRÁŠ"
+													}
+												},
+												"children": [{
+													"name": "ONDREJ",
+													"class": "man",
+													"extra": {
+														"birthDate": "23.11.1960",
+														"lastname": "PETRÁŠ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "30.06.1960",
+																"lastname": "PETRÁŠ",
+																"maidenname": "PETROVIČ"
+															}
+														},
+														"children": [{
+															"name": "IVANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "16.05.1986",
+																"lastname": "RAŠPAR",
+																"maidenname": "PETRAŠ"
+															},
+															"marriages": [{
+																"spouse": {
+																	"name": "JAN",
+																	"class": "man",
+																	"extra": {
+																		"birthDate": "02.02.1987",
+																		"lastname": "RAŠPAR"
+																	}
+																}
+															}]
+														}]
+													}]
+												}]
+											}]
+										}, {
+											"name": "JAN",
+											"class": "man",
+											"extra": {
+												"birthDate": "01.12.1942",
+												"lastname": "ŽIAK"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "ROZINA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "KOTVÁŠ"
+													}
+												}
+											}, {
+												"spouse": {
+													"name": "ZUZANA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "14.09.1949",
+														"lastname": "ŽIAK",
+														"maidenname": "SLIVKA"
+													}
+												},
+												"children": [{
+													"name": "ZUZANA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "13.09.1968",
+														"lastname": "VALENTA",
+														"maidenname": "ŽIAK"
+													},
+													"marriages": [{
+															"spouse": {
+															"name": "JAN",
+															"class": "man",
+															"extra": {
+																"birthDate": "16.05.1963",
+																"lastname": "VALENTA"
+															}
+														}
+													}]
+												}, {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "19.08.1973",
+														"lastname": "ŽIAK"
+													},
+													"marriages": [{
+															"spouse": {
+															"name": "MARIA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "31.10.1980",
+																"lastname": "ŽIAK",
+																"maidenname": "DUBOVSKY"
+															}
+														}
+													}]
+												}]
+											}]
+										}]
+									}]
+								}]
+							}
+							]
+						}, {
+							"name": "MICHAL",
+							"class": "man",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "09.07.1889",
+								"deathDate": "19.07.1890"
+							}
+						}, {
+							"name": "ANNA",
+							"class": "woman",
+							"extra": {
+								"lastname": "VALENTA",
+								"maidenname": "KUCHÁRIK",
+								"birthDate": "03.01.1892",
+								"deathDate": "11.10.1959"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "PAVEL",
+									"class": "man",
+									"extra": {
+										"lastname": "VALENTA",
+										"birthDate": "23.10.1887",
+										"deathDate": "01.05.1938"
+									}
+								},
+								"children": [
+									{
+										"name": "JAN",
+										"class": "man",
+										"extra": {
+											"lastname": "VALENTA",
+											"birthDate": "17.12.1913",
+											"deathDate": "?"
+										}
+									}, {
+									"name": "PAVEL",
+									"class": "man",
+									"extra": {
+										"lastname": "VALENTA",
+										"birthDate": "21.02.1920",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "EVA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "21.06.1922",
+												"deathDate": "?",
+												"lastname": "VALENTA",
+												"maidenname": "KUCHÁRIK"
+											}
+										}
+									}]
+								}]
+							}]
+						}, {
+							"name": "MICHAL",
+							"class": "man",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "18.07.1895",
+								"deathDate": "12.07.1955"
+							},
+							"marriages": [{
+								"spouse": {
+									"name": "ANNA",
+									"class": "woman",
+									"extra": {
+										"lastname": "KUCHÁRIK",
+										"maidenname": "PETRAŠ",
+										"birthDate": "1897/98",
+										"deathDate": "pred 1943"
+									}
+								},
+								"children": [{
+									"name": "MICHAL",
+									"class": "man",
+									"extra": {
+										"lastname": "KUCHÁRIK",
+										"birthDate": "08.11.1915",
+										"deathDate": "28.06.1963"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"lastname": "KUCHÁRIK",
+												"maidenname": "ŽIAK",
+												"birthDate": "10.07.1918",
+												"deathDate": "?"
+											}
+										},
+										"children": [{
+											"name": "MICHAL",
+											"class": "man",
+											"extra": {
+												"birthDate": "1938",
+												"deathDate": "18.02.1939",
+												"lastname": "KUCHÁRIK"
+											}
+										}, {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "06.08.1946",
+												"lastname": "GAJIĆ",
+												"maidenname": "KUCHÁRIK"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "01.12.1943",
+														"deathDate": "?",
+														"lastname": "BAČÚR"
+													}
+												},
+												"children": [{
+													"name": "MICHAL",
+													"class": "man",
+													"extra": {
+														"birthDate": "15.09.1974",
+														"lastname": "BAČÚR"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "ZUZANA",
+															"class": "woman",
+															"extra": {
+																"birthDate": "07.02.1975",
+																"lastname": "BAČÚR",
+																"maidenname": "PRÍBEĽA"
+															}
+														}
+													}]
+												}]
+											}, {
+												"spouse": {
+													"name": "IVAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "10.02.1933",
+														"deathDate": "?",
+														"lastname": "GAJIĆ"
+													}
+												}
+											}]
+										}, {
+											"name": "ANNA",
+											"class": "woman",
+											"extra": {
+												"birthDate": "24.10.1955",
+												"lastname": "MAGLÓCKY",
+												"maidenname": "KUCHÁRIK"
+											},
+											"marriages": [{
+												"spouse": {
+													"name": "JAN",
+													"class": "man",
+													"extra": {
+														"birthDate": "17.04.1954",
+														"lastname": "MAGLÓCKY"
+													}
+												},
+												"children": [{
+													"name": "ANNA",
+													"class": "woman",
+													"extra": {
+														"lastname": "BENKA",
+														"birthDate": "?",
+														"maidenname": "MAGLÓCKOVÁ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "BENKA"
+															}
+														}
+													}]
+												}, {
+													"name": "MARINA",
+													"class": "woman",
+													"extra": {
+														"birthDate": "?",
+														"lastname": "MATUĽA",
+														"maidenname": "MAGLÓCKOVÁ"
+													},
+													"marriages": [{
+														"spouse": {
+															"name": "VLADO",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "MATUĽA"
+															}
+														},
+														"children": [{
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "MATUĽA"
+															}
+														}, {
+															"name": "?",
+															"class": "man",
+															"extra": {
+																"birthDate": "?",
+																"lastname": "MATUĽA"
+															}
+														}]
+													}]
+												}]
+											}]
+										}]
+									}]
+								}, {
+									"name": "JAN",
+									"class": "man",
+									"extra": {
+										"lastname": "KUCHÁRIK",
+										"birthDate": "30.11.1918",
+										"deathDate": "?"
+									},
+									"marriages": [{
+										"spouse": {
+											"name": "ZUZANA",
+											"class": "woman",
+											"extra": {
+												"lastname": "KUCHÁRIK",
+												"maidenname": "PETROVIČ",
+												"birthDate": "02.04.1921",
+												"deathDate": "?"
+											}
+										}
+									}]
+								}]
+							}, {
+								"spouse": {
+									"name": "ZUZANA",
+									"class": "woman",
+									"extra": {
+										"lastname": "KUCHÁRIK",
+										"maidenname": "PETRAŠ",
+										"birthDate": "06.10.1903",
+										"deathDate": "?"
+									}
+								}
+							}]
+						}, {
+							"name": "PAVEL",
+							"class": "man",
+							"extra": {
+								"lastname": "KUCHÁRIK",
+								"birthDate": "18.07.1895",
+								"deathDate": "12.09.1895"
+							}
+						}]
+					}]
+				}]
+			}]
+		}]
+	}]
+}]
