@@ -446,7 +446,9 @@
 											"extra": {
 												"maidenname": "CHRŤAN",
 												"birthDate": "23.06.1940 ",
-												"lastname": "MOJSOVIĆ"
+												"deathDate": "19.12.2024",
+												"lastname": "MOJSOVIĆ",
+												"extraText": "Žili v Belehrade"
 											},
 											"marriages": [{
 												"spouse": {
