@@ -12,7 +12,7 @@
 			"class": "woman",
 			"extra": {
 				"lastname": "CHRŤAN",
-				"maidenname": "ŠIMAK",
+				"maidenname": "RUSZNAK",
 				"deathDate": "?"
 			}
 		},
@@ -928,7 +928,7 @@
 														"lastname": "ŽIVOJNOV",
 														"maidenname": "ĽAVROŠ",
 														"birthDate": "04.08.1988",
-														"deathDate": "17.10.2022"
+														"deathDate": "16.10.2022"
 													},
 													"marriages": [{
 														"spouse": {
@@ -1287,7 +1287,6 @@
 											"extra": {
 												"birthDate": "11.05.1944",
 												"lastname": "PETROVIČ",
-												"deathDate": "?",
 												"maidenname": "GÁLIK"
 											},
 											"marriages": [{
@@ -1296,7 +1295,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "27.08.1940",
-														"deathDate": "?",
+														"deathDate": "26.05.2019",
 														"lastname": "PETROVIČ"
 													}
 												},
@@ -1428,13 +1427,13 @@
 								}]
 							}]
 						}, {
-							"name": "JULIŠ",
+							"name": "JULIANA",
 							"class": "woman",
 							"extra": {
 								"lastname": "GALAS",
 								"maidenname": "CHRŤAN",
 								"birthDate": "19.05.1882",
-								"deathDate": "?"
+								"deathDate": "10.01.1970"
 							},
 							"marriages": [{
 								"spouse": {
@@ -1452,7 +1451,7 @@
 									"extra": {
 										"lastname": "GALAS",
 										"birthDate": "29.10.1907",
-										"deathDate": "?"
+										"deathDate": "16.12.1984"
 									},
 									"marriages": [{
 										"spouse": {
@@ -1471,7 +1470,7 @@
 											"extra": {
 												"lastname": "GALAS",
 												"birthDate": "11.02.1934",
-												"deathDate": "?"
+												"deathDate": "06.07.2011"
 											},
 											"marriages": [{
 												"spouse": {
@@ -1479,7 +1478,7 @@
 													"class": "woman",
 													"extra": {
 														"birthDate": "13.05.1939",
-														"deathDate": "?",
+														"deathDate": "26.07.2011",
 														"lastname": "GALAS",
 														"maidenname": "DIŠPITER"
 													}
@@ -1577,7 +1576,7 @@
 											"extra": {
 												"lastname": "GALAS",
 												"birthDate": "11.02.1940",
-												"deathDate": "?"
+												"deathDate": "27.12.1994"
 											},
 											"marriages": [{
 												"spouse": {
@@ -1587,7 +1586,7 @@
 														"lastname": "GALAS",
 														"maidenname": "DIŠPITER",
 														"birthDate": "09.10.1934",
-														"deathDate": "?"
+														"deathDate": "19.01.2015"
 													}
 												}
 											}]
@@ -1600,7 +1599,7 @@
 										"lastname": "HRUBÍK",
 										"maidenname": "GALAS",
 										"birthDate": "02.05.1914",
-										"deathDate": "?"
+										"deathDate": "18.04.1978"
 									},
 									"marriages": [{
 										"spouse": {
@@ -1608,8 +1607,8 @@
 											"class": "man",
 											"extra": {
 												"lastname": "HRUBÍK",
-												"birthDate": "1913",
-												"deathDate": "?"
+												"birthDate": "14.03.1913",
+												"deathDate": "22.10.1976"
 											}
 										}
 									}]
@@ -1677,7 +1676,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "08.09.1931",
-														"deathDate": "?",
+														"deathDate": "04.01.2009",
 														"lastname": "PAVELKA"
 													}
 												},
@@ -1955,7 +1954,7 @@
 											"extra": {
 												"lastname": "TRNOVSKÝ",
 												"birthDate": "24.09.1916",
-												"deathDate": "?"
+												"deathDate": "29.08.1986"
 											}
 										},
 										"children": [{
@@ -2106,7 +2105,7 @@
 											"extra": {
 												"lastname": "BRTKA",
 												"birthDate": "08.08.1915",
-												"deathDate": "?"
+												"deathDate": "Pred 1998"
 											}
 										},
 										"children": [{
@@ -2114,7 +2113,8 @@
 											"class": "man",
 											"extra": {
 												"birthDate": "13.11.1943",
-												"lastname": "BRTKA"
+												"lastname": "BRTKA",
+												"deathDate": "07.10.1999"
 											},
 											"marriages": [{
 												"spouse": {
@@ -2122,6 +2122,7 @@
 													"class": "woman",
 													"extra": {
 														"birthDate": "17.08.1947",
+														"deathDate": "09.10.2000",
 														"maidenname": "SLIVKA",
 														"lastname": "BRTKA"
 													}
@@ -2302,7 +2303,8 @@
 													"name": "JAN",
 													"class": "man",
 													"extra": {
-														"birthDate": "?",
+														"birthDate": "15.10.1946",
+														"deathDate": "14.02.2011",
 														"lastname": "KRÁLIK"
 													}
 												},
@@ -2311,7 +2313,7 @@
 													"class": "woman",
 													"extra": {
 														"birthDate": "?",
-														"lastname": "?",
+														"lastname": "BABKA",
 														"maidenname": "KRÁLIK"
 													},
 													"marriages": [{
@@ -2388,15 +2390,15 @@
 											"name": "ANNA",
 											"class": "woman",
 											"extra": {
-												"birthDate": "?",
-												"deathDate": "?",
+												"birthDate": "10.04.1955",
+												"deathDate": "19.07.2000",
 												"lastname": "HADŽIJA",
 												"maidenname": "CHRŤAN",
-												"extraText": "Ziju v Novom Sáde"
+												"extraText": "Žila v Novom Sáde"
 											},
 											"marriages": [{
 												"spouse": {
-													"name": "?",
+													"name": "FENID",
 													"class": "man",
 													"extra": {
 														"birthDate": "?",
@@ -2673,8 +2675,8 @@
 									"name": "PAULINA",
 									"class": "woman",
 									"extra": {
-										"birthDate": "?",
-										"deathDate": "?",
+										"birthDate": "07.10.1923",
+										"deathDate": "24.12.2001",
 										"lastname": "KOMINKA",
 										"maidenname": "CHRŤAN"
 									},
@@ -2684,7 +2686,7 @@
 											"class": "man",
 											"extra": {
 												"birthDate": "?",
-												"deathDate": "?",
+												"deathDate": "Pred 2001",
 												"lastname": "KOMINKA"
 											}
 										},
@@ -2793,16 +2795,16 @@
 											"class": "man",
 											"extra": {
 												"lastname": "MAUDOŠ",
-												"birthDate": "?",
-												"deathDate": "?"
+												"birthDate": "23.01.1926",
+												"deathDate": "01.02.1989"
 											}
 										},
 										"children": [{
 											"name": "DUŠAN",
 											"class": "man",
 											"extra": {
-												"birthDate": "?",
-												"deathDate": "?",
+												"birthDate": "28.07.1950",
+												"deathDate": "26.01.1989",
 												"lastname": "MAUDOŠ"
 											},
 											"marriages": [{
@@ -2813,7 +2815,7 @@
 														"lastname": "MAUDOŠ",
 														"birthDate": "?",
 														"maidenname": "MARKO",
-														"extraText": "Žijú v Nemecku"
+														"extraText": "Žije v Nemecku"
 													}
 												},
 												"children": [{
@@ -2845,7 +2847,7 @@
 										"maidenname": "CHRŤAN",
 										"lastname": "JAKAB",
 										"birthDate": "04.05.1931",
-										"deathDate": "?"
+										"deathDate": "10.04.2013"
 									},
 									"marriages": [{
 										"spouse": {
@@ -2854,7 +2856,7 @@
 											"extra": {
 												"lastname": "JAKAB",
 												"birthDate": "?",
-												"deathDate": "?"
+												"deathDate": "Pred 2013"
 											}
 										},
 										"children": [{
@@ -2863,7 +2865,7 @@
 											"extra": {
 												"lastname": "JAKAB",
 												"birthDate": "23.09.1952",
-												"deathDate": "?"
+												"deathDate": "03.12.2019"
 											},
 											"marriages": [{
 												"spouse": {
@@ -3292,7 +3294,7 @@
 									"extra": {
 										"lastname": "HLAVATÝ",
 										"birthDate": "09.04.1904",
-										"deathDate": "?"
+										"deathDate": "06.07.1980"
 									},
 									"marriages": [{
 										"spouse": {
@@ -3323,7 +3325,7 @@
 												"maidenname": "HLAVATÝ",
 												"lastname": "PETROVIČ",
 												"birthDate": "07.04.1925",
-												"deathDate": "?"
+												"deathDate": "21.04.2004"
 											},
 											"marriages": [{
 												"spouse": {
@@ -3331,7 +3333,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "24.12.1921",
-														"deathDate": "?",
+														"deathDate": "09.12.1999",
 														"lastname": "PETROVIČ"
 													}
 												},
@@ -3340,6 +3342,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "23.08.1946",
+														"deathDate": "16.07.2017",
 														"lastname": "PETROVIČ"
 													},
 													"marriages": [{
@@ -3348,11 +3351,19 @@
 															"class": "woman",
 															"extra": {
 																"birthDate": "28.08.1948",
+																"deathDate": "30.06.2012",
 																"lastname": "PETROVIČ",
 																"maidenname": "ŠIRKA"
 															}
 														},
 														"children": [{
+															"name": "JAN",
+															"class": "man",
+															"extra": { 
+																"birthDate": "?",
+																"lastname": "PETROVIČ"
+															}
+														}, {
 															"name": "PAVEL",
 															"class": "man",
 															"extra": { 
@@ -3397,7 +3408,7 @@
 									"extra": {
 										"lastname": "HLAVATÝ",
 										"birthDate": "06.08.1905",
-										"deathDate": "?"
+										"deathDate": "27.01.1977"
 									},
 									"marriages": [{
 										"spouse": {
@@ -3407,7 +3418,7 @@
 												"maidenname": "MAJDLEN",
 												"lastname": "HLAVATÝ",
 												"birthDate": "16.06.1903",
-												"deathDate": "?"
+												"deathDate": "14.02.1978"
 											}
 										},
 										"children": [{
@@ -3424,7 +3435,7 @@
 											"extra": {
 												"lastname": "HLAVATÝ",
 												"birthDate": "24.05.1930",
-												"deathDate": "?"
+												"deathDate": "17.08.1983"
 											},
 											"marriages": [{
 												"spouse": {
@@ -3432,7 +3443,7 @@
 													"class": "woman",
 													"extra": {
 														"birthDate": "07.10.1931",
-														"deathDate": "?",
+														"deathDate": "01.09.2002",
 														"lastname": "HLAVATÝ",
 														"maidenname": "KOTVÁŠ"
 													}
@@ -3448,7 +3459,7 @@
 									"extra": {
 										"lastname": "VALENTA",
 										"birthDate": "17.10.1892",
-										"deathDate": "?"
+										"deathDate": "29.03.1971"
 									}
 								},
 								"children": [{
@@ -3458,7 +3469,7 @@
 										"maidenname": "VALENTA",
 										"lastname": "ŽIAK",
 										"birthDate": "13.01.1919",
-										"deathDate": "?"
+										"deathDate": "14.11.1991"
 									},
 									"marriages": [{
 										"spouse": {
@@ -3467,7 +3478,7 @@
 											"extra": {
 												"lastname": "ŽIAK",
 												"birthDate": "06.11.1913",
-												"deathDate": "?"
+												"deathDate": "22.03.1993"
 											}
 										},
 										"children": [{
@@ -3475,6 +3486,7 @@
 											"class": "woman",
 											"extra": {
 												"birthDate": "17.05.1940",
+												"deathDate": "23.10.2014",
 												"maidenname": "ŽIAK",
 												"lastname": "PETRÁŠ"
 											},
@@ -3484,6 +3496,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "24.03.1937",
+														"deathDate": "24.06.2019",
 														"lastname": "PETRÁŠ"
 													}
 												},
@@ -3637,7 +3650,7 @@
 									"extra": {
 										"lastname": "VALENTA",
 										"birthDate": "21.02.1920",
-										"deathDate": "?"
+										"deathDate": "10.04.1998"
 									},
 									"marriages": [{
 										"spouse": {
@@ -3645,7 +3658,7 @@
 											"class": "woman",
 											"extra": {
 												"birthDate": "21.06.1922",
-												"deathDate": "?",
+												"deathDate": "30.04.2007",
 												"lastname": "VALENTA",
 												"maidenname": "KUCHÁRIK"
 											}
@@ -3713,7 +3726,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "01.12.1943",
-														"deathDate": "?",
+														"deathDate": "22.01.1992",
 														"lastname": "BAČÚR"
 													}
 												},
@@ -3742,7 +3755,7 @@
 													"class": "man",
 													"extra": {
 														"birthDate": "10.02.1933",
-														"deathDate": "?",
+														"deathDate": "23.11.2010",
 														"lastname": "GAJIĆ"
 													}
 												}
@@ -3848,7 +3861,7 @@
 										"lastname": "KUCHÁRIK",
 										"maidenname": "PETRAŠ",
 										"birthDate": "06.10.1903",
-										"deathDate": "?"
+										"deathDate": "22.01.1975"
 									}
 								}
 							}]
